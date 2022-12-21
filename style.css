@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(152, 183, 195);
+    font-family: Arial, Helvetica, sans-serif;
+}
+main-header {
+    background-color: rgb(144, 162, 180);
+    color: rgb(202, 186, 164);
+    height: 80px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: rgb(10, 10, 10);
+    background: rgb(165, 163, 194);
+    line-height: 1.5em;
+}
